@@ -2,7 +2,7 @@
 
 
 Nature's Gallery is a wallpaper website built using pure HTML , CSS and Java Script.
-This site consist of various wallapers of nature.
+This website consists of various pictures of nature.
 
 
 
