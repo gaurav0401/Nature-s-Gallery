@@ -30,7 +30,7 @@ body {
 .images {
     margin-top: 5px;
     margin-right: 25px;
-    height: 250px;
+    height: 190px;
     margin-bottom: 10px;
     transition-property: height;
     transition-duration: 0.3s;
@@ -42,7 +42,7 @@ body {
 
 .show-case :hover {
 
-    height: 258px;
+    height: 200px;
 
 
 }
