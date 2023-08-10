@@ -1,0 +1,62 @@
+
+
+
+#images {
+    width: 80vw;
+    margin-left: 10vw;
+    /* padding-right: %; */
+    height: 100vh;
+    min-width: 80vw;
+    border: 1px solid white;
+    border-radius: 12px;
+}
+
+
+
+
+body {
+    background-color: whitesmoke;
+
+}
+
+
+
+
+
+
+
+.images {
+    margin-top: 5px;
+    margin-right: 25px;
+    height: 250px;
+    margin-bottom: 10px;
+    transition-property: height;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    cursor: pointer;
+
+
+}
+
+.show-case :hover {
+
+    height: 258px;
+
+
+}
+
+
+
+.footer {
+
+
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
