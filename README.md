@@ -10,7 +10,8 @@ This site consist of various wallapers of nature.
 Screenshot 1
 
 
-![ss1](https://user-images.githubusercontent.com/80095859/222970376-1f31aeb8-3ae0-494d-86f9-4e60b616d033.png)
+![image](https://github.com/gaurav0401/Nature-s-Gallery/assets/80095859/1a5e382f-d14a-46e7-9c34-b66352b48daa)
+
 
 
 
